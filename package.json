@@ -1,0 +1,38 @@
+{
+  "name": "nibiru-starter",
+  "version": "1.0.0",
+  "description": "Starter project for Nibiru framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denistrofimov/nibiru-starter.git"
+  },
+  "keywords": [
+    "nibiru",
+    "framework",
+    "expressjs",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Denis Trofimov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denistrofimov/nibiru-starter/issues"
+  },
+  "homepage": "https://github.com/denistrofimov/nibiru-starter#readme",
+  "dependencies": {
+    "accepts": "^1.3.3",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "handlebars": "^4.0.5",
+    "lodash": "^4.14.2",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.8",
+    "morgan": "^1.7.0",
+    "nibiru": "^0.3.8"
+  }
+}
